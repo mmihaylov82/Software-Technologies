@@ -1,0 +1,12 @@
+div{
+    padding: 15px;
+    border: 1px dotted blue;
+}
+.inner{
+    border-style: dashed;
+    border-color: green;
+}
+.most-inner{
+    border-style: solid;
+    border-color: red;
+}
